@@ -1,1 +1,2 @@
 Some text in file
+Text changed 09.08
